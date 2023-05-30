@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chananon Jankaew
 ========================================================================================================================================
 
-Programmer Analyst
+Software Developer
 ------------------
 
 I work as a programmer analyst at Code-D789 Co.,Ltd. and am studying about Machine learing engineer.

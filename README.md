@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I work as a programmer analyst at Code-D789 Co.,Ltd. and am studying about Machine learing engineer.
+I work as a Back-End Development at Hitachi company. and am studying about Machine learing engineer.
 
 * 🌍  I'm based in Bangkok, Thailand
 

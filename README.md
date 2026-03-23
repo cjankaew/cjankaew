@@ -1,5 +1,5 @@
 ## **About me**
-Welcome to my GitHub Profile. I'm **_Nont Chananon_** and Now **_I'm Backend Developer_**.
+Welcome to my GitHub Profile. I'm **_Nont Chananon_** and Now **_I'm Software Engineer_**.
 <br/>
 <br/>
 <a href="https://www.linkedin.com/in/chananon-jankaew-85b431214/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
